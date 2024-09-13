@@ -15,8 +15,8 @@ class MembersController extends Controller
     public function __construct()
     {
         // Definir las credenciales de la API
-        $this->api_key = 'XXXXXX';
-        $this->api_password = 'XXXXXXXXXXXXXXXXXX';
+        $this->api_key = '882d6106';
+        $this->api_password = 'b43f09a91bf1bc7b5b33dfb9651ddf19';
     }
 
     public function members()
